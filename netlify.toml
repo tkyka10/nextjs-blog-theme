@@ -13,3 +13,7 @@
 
   [plugins.inputs]
     enable = false
+  
+  [dev]
+  # functions:serveで起動するポート番号の指定(default: 9999)
+  functionsPort = 9093
